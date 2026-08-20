@@ -1,0 +1,7 @@
+{
+  "name": "Guardian AI - Anti-Abduction & Emergency Location Threat Detection",
+  "description": "Intelligent kidnapping & abduction detection system with real-time GPS telemetry, Generative AI threat assessment, emergency police CAD alert triggers, E2E encryption, and offline map survival tools.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
